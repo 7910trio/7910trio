@@ -56,13 +56,3 @@
 
 - **NetworkDoctor** · eBPF 기반 Kubernetes 네트워크 장애 진단 도구
 
----
-
-## 📈 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=7910trio&show_icons=true&theme=default&hide_border=true" height="160" />
-<img src="https://streak-stats.demolab.com?user=7910trio&theme=default&hide_border=true" height="160" />
-
-</div>
