@@ -1,6 +1,6 @@
 <div align="center">
 
-# 이서영 | Lee Seoyoung
+<img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&color=000000&size=32&center=true&vCenter=true&width=500&height=60&lines=Hello+World+!+I'm+Seoyoung+%CB%99%E1%B5%95%CB%99" alt="Hello World! I'm Seoyoung" />
 
 ### Cloud · DevOps Engineer
 
